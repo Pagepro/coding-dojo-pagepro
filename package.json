@@ -1,0 +1,25 @@
+{
+  "name": "coding-dojo-pagepro",
+  "version": "1.0.0",
+  "description": "Repository for all company coding dojo sessions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pagepro/coding-dojo-pagepro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pagepro/coding-dojo-pagepro/issues"
+  },
+  "homepage": "https://github.com/Pagepro/coding-dojo-pagepro#readme",
+  "devDependencies": {
+    "eslint": "^1.1.0",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-jest-iojs": "^1.0.0"
+  }
+}
